@@ -4,7 +4,6 @@ This repository contains all the Python development tasks I completed as part of
 
 ---
 
-## ✅ Completed Tasks
 
 ## ✅ Completed Tasks
 
@@ -18,8 +17,10 @@ This repository contains all the Python development tasks I completed as part of
 
 - A graphical user interface (GUI) based BMI calculator that stores and  analyzes BMI data over time using SQLite.
 
+### 🔹 [Task 3: Password Generator](Task-3-Password-Generator/)
 
-> *(More tasks will be added as they are completed.)*
+- A password generator that creates strong and random passwords based on  user preferences.
+- Includes options for password length, character sets, and clipboard copy.
 
 ---
 
