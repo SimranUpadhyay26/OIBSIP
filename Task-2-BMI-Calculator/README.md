@@ -30,4 +30,9 @@ It features a user-friendly GUI, stores historical BMI data in a database, and p
 1. Install required libraries:
    ```bash
    pip install pillow
+2. Run the Python file:
+   ```bash
+   python bmi_calculator.py
+
+   
 
