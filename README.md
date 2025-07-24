@@ -16,7 +16,7 @@ This repository contains all the Python development tasks I completed as part of
 ### 🔹 [Task 2: BMI Calculator](Task-2-BMI-Calculator/)
 
 - A graphical user interface (GUI) based BMI calculator that stores and  analyzes BMI data over time using SQLite.
-  
+---
 
 ### 🔹 [Task 3: Password Generator](Task-3-Password-Generator/)
 
