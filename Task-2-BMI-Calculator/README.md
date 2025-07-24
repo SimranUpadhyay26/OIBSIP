@@ -11,18 +11,18 @@ It features a user-friendly GUI, stores historical BMI data in a database, and p
 - ✅ User-friendly Tkinter-based interface
 - ✅ BMI calculation from user input (Height & Weight)
 - ✅ Real-time result classification (Underweight, Normal, Overweight, etc.)
-- ✅ Historical data saved in SQLite database
-- ✅ View past entries and analyze BMI trends
+- ✅ Automatic storage of BMI history in an SQLite database.
+- ✅ Ability to view and analyze past BMI entries.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Python 3
-- Tkinter (for GUI)
-- SQLite3 (for storing BMI history)
-- PIL (for custom styled UI images)
-
+- **Python 3**
+- **Tkinter** – for building GUI
+- **SQLite3** – for data storage
+- **PIL (Pillow)** – for UI customization (images/icons)
+- **Matplotlib (optional)** – for visualizing BMI trends
 ---
 
 ## ▶️ How to Run
