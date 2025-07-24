@@ -9,19 +9,31 @@ This repository contains all the Python development tasks I completed as part of
 
 ### 🔹 [Task 1: Voice Assistant](Task-1-Voice-Assistant/)
 
-- A voice-controlled assistant built using Python.
-- It can perform tasks such as telling the current time/date, fetching  weather data, and performing web searches based on voice commands.
+- A voice-controlled assistant built using Python.  
+- Features:
+  - Tells the current time and date.
+  - Fetches real-time weather data using APIs.
+  - Performs Google searches via voice commands.
+
 ---
 
 ### 🔹 [Task 2: BMI Calculator](Task-2-BMI-Calculator/)
 
-- A graphical user interface (GUI) based BMI calculator that stores and  analyzes BMI data over time using SQLite.
+- A graphical user interface (GUI) based BMI calculator that stores and analyzes BMI data over time using SQLite.  
+- Features:
+  - Calculates BMI and categorizes health status.
+  - Stores BMI history for future reference.
+  - Visualizes BMI trends with graphs.
+
 ---
 
 ### 🔹 [Task 3: Password Generator](Task-3-Password-Generator/)
 
-- A password generator that creates strong and random passwords based on  user preferences.
-- Includes options for password length, character sets, and clipboard copy.
+- A password generator that creates strong and random passwords based on user preferences.  
+- Features:
+  - Options for password length and character sets.
+  - Includes numbers, symbols, uppercase and lowercase letters.
+  - Clipboard copy functionality for convenience.
 
 ---
 
