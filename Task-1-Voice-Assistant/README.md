@@ -31,4 +31,9 @@ It performs various voice-controlled actions like telling the current time, date
 1. Install required libraries:
    ```bash
    pip install speechrecognition pyttsx3 requests
+2. Run the script:
+   ```bash
+   python voice_assistant.py
+
+   
 
