@@ -28,3 +28,7 @@ The Password Generator is a command-line tool that creates **secure and random p
  Run the script:
    ```bash
    python password_generator.py
+--
+## screenshot
+<img width="850" height="299" alt="{9F7FE600-CB68-4A58-ABE7-6C3ACA34AF38}" src="https://github.com/user-attachments/assets/14681f7b-c75c-4cfc-b1e4-65a1f5c9a193" />
+
